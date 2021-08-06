@@ -1,5 +1,5 @@
 ## General Info
-Primeiro projeto com redux ofertado pelo curso JS Raiz
+Carrinho de compras ecommerce
 
 ## Setup
 Basta clonar o repositório e abrir o arquivo
